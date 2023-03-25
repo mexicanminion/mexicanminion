@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=mexicanminion&style=flat-square&color=green" alt=""/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/javier-moncada-7a6111213/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
