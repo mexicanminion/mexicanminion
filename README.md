@@ -15,8 +15,8 @@
   </a>
 </div>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mexicanminion&show_icons=true&theme=merko" width="50%"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mexicanminion&show_icons=true&theme=tokyonight" width="50%"/>
   <br> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mexicanminion&theme=tokyonight" width="50%"/>
 </div>
