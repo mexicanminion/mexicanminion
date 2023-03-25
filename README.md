@@ -1,9 +1,9 @@
-<div id="header" align="center">
+<div align="center">
   <h1> Hello! Im Javier!<br>I make many things with code but currently im working on "DND Minecraft"!</h1>
   <img src="https://komarev.com/ghpvc/?username=mexicanminion&style=flat-square&color=green" alt=""/>
 </div>
 
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/javier-moncada-7a6111213/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
