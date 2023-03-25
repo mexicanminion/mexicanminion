@@ -16,6 +16,7 @@
 </div>
 
 <div>
+  <img scr="https://github-readme-stats.vercel.app/api?username=mexicanminion&show_icons=true&theme=merko">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mexicanminion&theme=dark&hide_border=true)](https://git.io/streak-stats)
   [![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=mexicanminion&show_icons=true&theme=merko))](https://github.com/anuraghazra/github-readme-stats)
 <div/>
