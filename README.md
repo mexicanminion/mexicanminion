@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-      <h2><b>My Portfolio</b><br><a href="https://javierm.me">javierm.me</a></h2>
+      <h2><b>My Portfolio</b><br><a href="https://javierm.me" target="_blank">javierm.me</a></h2>
 </div>
 
 <div align="center">
